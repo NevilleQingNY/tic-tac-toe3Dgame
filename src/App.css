@@ -1,0 +1,32 @@
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 10px;
+    cursor: pointer;
+  }
+  
+  .textBottomSection {
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .winnerMove {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 22px;
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  .restartButton {
+    text-transform: uppercase;
+    font-size: 18px;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+  }
